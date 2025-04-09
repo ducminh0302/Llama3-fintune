@@ -50,7 +50,7 @@ pip install transformers torch
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model_name = "your_username/large-social-behavior-model"  # Replace with your repository name
+model_name = "your_username/large-social-behavior-model"  
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 ```
