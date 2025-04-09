@@ -1,4 +1,4 @@
-# large-social-behavior-model: Unlocking Behavioral Insights with Fine-tuned Llama 3.2 (3B)
+# Large social behavior model: Unlocking Behavioral Insights with Fine-tuned Llama 3.2 (3B)
 
 This is **Large social behavior model**, a fine-tuned version of Llama 3.2 with 3 billion parameters, crafted to dive deep into the world of human behavior through language and multimodal data. By integrating "behavior tokens" inspired by cutting-edge research, this model excels at understanding, predicting, and simulating behavioral responses—bridging the gap between content and its real-world impact. Whether you're a researcher, developer, or enthusiast, Large-social-behavior-model invites you to explore the fascinating interplay of communication and action.
 
